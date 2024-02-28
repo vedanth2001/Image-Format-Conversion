@@ -1,12 +1,13 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\test;
 
 use Illuminate\Http\Request;
 use Aws\S3\S3Client;
 use Aws\Exception\AwsException;
 
-class ImageController extends Controller
+
+class ImageController extends test
 {
     public function index()
     {
