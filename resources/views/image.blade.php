@@ -49,6 +49,7 @@
             <option value="jpg">JPG</option>
             <option value="gif">GIF</option>
             <option value="jpeg">JPEG</option>
+            <option value="webp">WEBP</option>
            
         </select>
      </div>
