@@ -37,8 +37,8 @@ class ImageController extends Controller
 
         // AWS credentials
         $credentials = [
-            'key'    => 'AKIAZI2LFUUM7HFYNQWE',
-            'secret' => 'lJ2d1EqTy24UorpLZTfv1xxHcy35fBsIY/cMDurn',
+            'key'    => 'YOUR_ACCESS_KEY',
+            'secret' => 'YOUR_SECRET_KEY',
         ];
 
         // Initialize S3 client for the destination bucket
