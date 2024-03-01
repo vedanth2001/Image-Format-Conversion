@@ -79,8 +79,8 @@ class ImageController extends test
 
         // AWS credentials
         $credentials = [
-            'key'    => 'AKIAZI2LFUUM7HFYNQWE',
-            'secret' => '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',
+            'key'    => ' ',
+            'secret' => ' ',
         ];
 
         // Initialize S3 clients for both source and destination buckets
